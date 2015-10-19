@@ -18,3 +18,8 @@ D:\งานว่าน\SWEN\FormCPE\PPP\Project\ProComsys\ProComsys\bin\ProCom
 D:\งานว่าน\SWEN\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.csprojResolveAssemblyReference.cache
 D:\งานว่าน\SWEN\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.dll
 D:\งานว่าน\SWEN\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.pdb
+C:\Users\คุณจริยา ศรีเอี่ยม\Desktop\FormCPE\PPP\Project\ProComsys\ProComsys\bin\ProComsys.dll
+C:\Users\คุณจริยา ศรีเอี่ยม\Desktop\FormCPE\PPP\Project\ProComsys\ProComsys\bin\ProComsys.pdb
+C:\Users\คุณจริยา ศรีเอี่ยม\Desktop\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.csprojResolveAssemblyReference.cache
+C:\Users\คุณจริยา ศรีเอี่ยม\Desktop\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.dll
+C:\Users\คุณจริยา ศรีเอี่ยม\Desktop\FormCPE\PPP\Project\ProComsys\ProComsys\obj\Debug\ProComsys.pdb
