@@ -132,7 +132,7 @@
         </div>
           
            
-   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
  <h4>&nbsp;ติดต่อ</h4>
         คณะวิศวกรรมศาสตร์ มหาวิทยาลัยนเรศวร เลขที่ 99 หมู่ 9 ตำบลท่าโพธิ์ อำเภอเมือง จังหวัดพิษณุโลก 65000<br /><br />
                       <center>  เว็บนี้เป็นส่วนหนึ่งของรายวิชา 305351Computer System Engineering ปีการศึกษา 2557 & รายวิชา 305371Software Engineering ปีการศึกษา 2558</center><br />

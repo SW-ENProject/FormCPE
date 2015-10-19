@@ -2301,6 +2301,7 @@ th {
 .table-bordered > tbody > tr > td,
 .table-bordered > tfoot > tr > td {
   border: 1px solid #ddd;
+    text-align: left;
 }
 .table-bordered > thead > tr > th,
 .table-bordered > thead > tr > td {

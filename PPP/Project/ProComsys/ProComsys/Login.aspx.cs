@@ -59,8 +59,8 @@ namespace ProComsys
                     SqlConnection con1 = new SqlConnection(constr2);
 
                     con1.Open();
-                    SqlCommand cmd1 = new SqlCommand("select count(*) from  Adviser a	 " +
-                         " where a.ADName=LTRIM( '" + ID + "' )  and a.ADPass= LTRIM('" + Password + "') ", con1);
+                    SqlCommand cmd1 = new SqlCommand("select count(*) from  Teacher a " +
+                         " where a.TID=LTRIM( " + ID + ")  and a.TPass= LTRIM(" + Password + ") ", con1);
                     SqlDataReader reader1 = cmd1.ExecuteReader();
 
                     if (reader1.Read())

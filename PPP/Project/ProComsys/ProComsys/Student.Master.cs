@@ -45,7 +45,7 @@ namespace ProComsys
 
                 if (reader.Read())
                 {
-                    Sname = reader[0].ToString()+" "+reader[1].ToString()+"          ";
+                    Sname = reader[0].ToString()+" "+reader[1].ToString()+"          "; //ตรงนี้
                     Session["FName"] = reader[0].ToString();
                     Session["LNAme"] = reader[1].ToString();
 

@@ -1,9 +1,9 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Main.Master" AutoEventWireup="true" CodeBehind="MainAbout.aspx.cs" Inherits="ProComsys.WebForm1" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Teachar.Master" AutoEventWireup="true" CodeBehind="TAbout.aspx.cs" Inherits="ProComsys.WebForm25" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
     <style type="text/css">
-        .auto-style1 {
-            width: 676px;
-            height: 894px;
+        .auto-style8 {
+        width: 390px;
+        height: 343px;
         }
     </style>
     </asp:Content>
@@ -132,10 +132,11 @@
         </div>
           
            
-   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+   <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
  <h4>&nbsp;ติดต่อ</h4>
         คณะวิศวกรรมศาสตร์ มหาวิทยาลัยนเรศวร เลขที่ 99 หมู่ 9 ตำบลท่าโพธิ์ อำเภอเมือง จังหวัดพิษณุโลก 65000<br /><br />
-                      <center>  เว็บนี้เป็นส่วนหนึ่งของรายวิชา computer system Engineering :ผู้สอน ดร.สุรเดช จิตประไพกุลศาล ( <a href="suradetj@gmail.com">suradetj@gmail.com</a>)</center>
+                      <center>  เว็บนี้เป็นส่วนหนึ่งของรายวิชา 305351Computer System Engineering ปีการศึกษา 2557 & รายวิชา 305371Software Engineering ปีการศึกษา 2558</center><br />
+                        <center>  ผู้สอน ดร.สุรเดช จิตประไพกุลศาล ( <a href="suradetj@gmail.com">suradetj@gmail.com</a>)</center>
 
               
             </div>
