@@ -8,5 +8,6 @@
          <img src="Image/2.gif" style="width:100%; height:200px;background-color:#fff " >
             </div>
       </div>
-  
+   <div align="right">1</div>
+
 </asp:Content>

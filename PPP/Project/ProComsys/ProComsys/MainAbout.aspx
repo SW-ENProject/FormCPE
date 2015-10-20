@@ -136,14 +136,16 @@
  <h4>&nbsp;ติดต่อ</h4>
         คณะวิศวกรรมศาสตร์ มหาวิทยาลัยนเรศวร เลขที่ 99 หมู่ 9 ตำบลท่าโพธิ์ อำเภอเมือง จังหวัดพิษณุโลก 65000<br /><br />
                       <center>  เว็บนี้เป็นส่วนหนึ่งของรายวิชา 305351Computer System Engineering ปีการศึกษา 2557 & รายวิชา 305371Software Engineering ปีการศึกษา 2558</center><br />
-                        <center>  ผู้สอน ดร.สุรเดช จิตประไพกุลศาล ( <a href="suradetj@gmail.com">suradetj@gmail.com</a>)</center>
+                        <center>  ผู้สอน ดร.สุรเดช จิตประไพกุลศาล ( <a href="suradetj@gmail.com">suradetj@gmail.com</a>)</center>  <br />
 
-              
+              <div align="right">2</div>
             </div>
     
     </div>
-  <div>
-      <br />
+  
+    <div>
+        <br />
+            </div>
 
-  </div>
+   
 </asp:Content>
