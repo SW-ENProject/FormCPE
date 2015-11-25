@@ -465,7 +465,7 @@ namespace ProComsys
                 SqlConnection con = new SqlConnection(constr);
                 con.Open();
                 SqlCommand cmd = new SqlCommand("insert into TRole(No,TID,RID) values ((select COUNT(*) from TRole)+1,(select t.TID from Teacher t  where t.TFirstName = RTRIM('"+Name+"')),'"+role+"')", con);
-                cmd.ExecuteNonQuery();
+             //   cmd.ExecuteNonQuery();
                 con.Close();
 
                 INsertTProject();
